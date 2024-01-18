@@ -1,7 +1,6 @@
 # Ignacio Perez's Portfolio
 Personal Information
 Name: Ignacio Perez
-
 Email: vitafull96@gmail.com
 
 # Personal Profile
