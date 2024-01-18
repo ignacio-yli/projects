@@ -32,3 +32,16 @@ Studies focused on IT and Business.
 
 Previous studies at the University of Helsinki, 2 years in Computer Science.
 Duration: Jan 2022 - Present
+
+# Projects
+
+Team Maker App (Android)
+
+Description:
+
+Developed an Android application for team sports that facilitates the creation of teams from a pool of players.
+Users input player ratings, and the app semi-randomly distributes players into teams, ensuring each team has a goalkeeper.
+Users can specify the number of teams to create, and the app strives to balance team ratings.
+Technologies Used:
+
+Android, Kotlin, Jetpack Compose
