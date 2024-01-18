@@ -23,7 +23,7 @@ Managed B2B relationships with car service providers.
 Scheduled and drove cars for inspection, explaining results to clients.
 Duration: Aug 2018 - Aug 2019
 
-Education and Qualifications
+# Education and Qualifications
 It-tradenomi - Laurea Amattikorkeakoulu, Vantaa
 Studying remotely through a blended learning approach.
 Studies focused on IT and Business.
